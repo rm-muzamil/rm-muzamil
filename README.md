@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RM Muzammil</h1>
-<h3 align="center">A passionate full-stack developer in frontend</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rm-muzamil&label=Profile%20views&color=0e75b6&style=flat" alt="rm-muzamil" /> </p>
 
