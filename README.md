@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about building **web applications**
 ### 💻 About Me
 - 🌱 I’m currently learning **Next.js, TypeScript, and Full-Stack Development**
 - 💬 Ask me about **React, JavaScript, Node.js**
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [rmmuzamilofficial@gmail.com](mailto:rmmuzamilofficial@gmail.com)
 - ⚡ Fun fact: I love building interactive UI and exploring AI tools!
 
 ---
@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm passionate about building **web applications**
 ---
 
 ### 📊 GitHub Stats:
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![RM Muzammil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rm-muzamil&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
