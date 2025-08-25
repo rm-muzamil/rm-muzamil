@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm passionate about building **web applications**
 ### 📊 GitHub Stats:
 ![RM Muzammil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rm-muzamil&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rm-muzamil&layout=compact&theme=radical)
 
 ---
 
