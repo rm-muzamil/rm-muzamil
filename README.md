@@ -50,6 +50,13 @@ Welcome to my GitHub profile! I'm passionate about building **web applications**
 
 ---
 
+### 📈 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rm-muzamil&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🔗 Connect with me:
 <p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
