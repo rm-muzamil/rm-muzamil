@@ -59,17 +59,17 @@ Welcome to my GitHub profile! I'm passionate about building **web applications**
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rm-muzamil&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rm-muzammil&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ### 🔥 GitHub Streak:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rm-muzamil&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rm-muzammil&theme=radical" alt="GitHub Streak" />
 </p>
 
 ### 📂 Top Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rm-muzamil&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rm-muzammil&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
