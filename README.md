@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Muzammil  
+Full Name: Rana Muhammad Muzammil 
 
 ### 💻 Full Stack Web Developer | AI Enthusiast | Tech Explorer  
 
