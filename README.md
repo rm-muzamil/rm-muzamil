@@ -1,7 +1,7 @@
 # 👋 Hi, I'm RM Muzammil  
 Full Name: Rana Muhammad Muzammil 
 
-### 💻 Full Stack Web Developer | AI Enthusiast | Tech Explorer  
+### 💻 Full Stack Web Developer | Tech Explorer  
 
 Welcome to my GitHub profile! I'm passionate about building **web applications**, exploring **AI/ML**, and sharing my knowledge through **projects and tutorials**.  
 
@@ -74,6 +74,6 @@ Welcome to my GitHub profile! I'm passionate about building **web applications**
 </p>
 
 ---
-
+Asfbbffvv
 ### ⚡ Fun fact:
 _"I love building interactive UIs and solving real-world problems with code."_
